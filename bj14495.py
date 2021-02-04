@@ -23,4 +23,5 @@ print(dp[n-1]) # 0부터 리스트가 나오기 때문에 n-1을 해 값 출력
 #     cache[i] = cache[i-1] + cache[i-2]
 #
 #     print(cache[10])
+
 # 위 코드는 동적 계획법을 변형해 만들었다.
